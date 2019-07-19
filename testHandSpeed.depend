@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563540817 source:e:\codeblocks\testhandspeed\main.cpp
+	<iostream>
+	<random>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+
